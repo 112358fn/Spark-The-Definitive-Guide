@@ -3,3 +3,4 @@
 spark-3.2.0-bin-hadoop3.2/
 venv/
 .python-version
+zeppelin-0.10.0-bin-all/
